@@ -1,0 +1,6 @@
+id,customer,message,category,priority,suggested_action
+101,Alice,My order hasn't arrived yet.,Shipping,High,Check shipping status and contact carrier.
+102,Bob,Do you offer student discounts?,Other,Low,Verify if a student discount exists and share the result with the customer.
+103,Charlie,I was charged twice for my order.,Billing,High,Verify payment history and issue a refund for the duplicate charge.
+104,Diana,I received a damaged product.,Product,High,Arrange a return and replacement shipment.
+105,Edward,Can I return my purchase?,Refund,Medium,Check return eligibility and guide through return process.
