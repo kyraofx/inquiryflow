@@ -2,7 +2,7 @@
 # InquiryFlow
 
 An AI-powered customer inquiry organizer built with Python, Streamlit, and the Groq API.
-Creator note: This is one of the mini projects to help me understand api, llm, and python. I understand the whole workflow.
+Creator note: This is one of the mini projects to help me understand api, llm, and python. 
 
 ## Overview
 
